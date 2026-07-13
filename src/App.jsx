@@ -4,7 +4,7 @@ import Home from './Components/Home'
 import ImageMarquee from './Components/ImageMarquee'
 import PinnedFeatureScroll from './Components/PinnedFeatureScroll'
 import GridBoxHero from './Components/GridBoxHero'
-import TextRevealHero from './Components/TextRevealHero'
+
 function App() {
 
 
