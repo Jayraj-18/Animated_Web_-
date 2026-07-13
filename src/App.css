@@ -1,0 +1,37 @@
+@import "tailwindcss";
+/* Chrome, Edge, Safari */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Firefox */
+html {
+  scrollbar-width: none;
+}
+
+/* IE/Old Edge */
+body {
+  -ms-overflow-style: none;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+
+@font-face {
+  font-family: "TheBystand";
+  src: url("/public/fonts/TheBystand.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: superlete;
+  src: url("/public/fonts/Laurasia.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
